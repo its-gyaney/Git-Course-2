@@ -3,5 +3,3 @@ eat
 code 
 
 sleep
-
-repeat
